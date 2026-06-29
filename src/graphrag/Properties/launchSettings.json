@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "graphrag": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
